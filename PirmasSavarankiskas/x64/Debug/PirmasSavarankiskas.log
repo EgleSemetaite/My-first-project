@@ -1,0 +1,19 @@
+﻿  Savarankiskas.cpp
+C:\Users\Egle\source\repos\PirmasSavarankiskas\mylib.h(39,36): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'Savarankiskas.cpp')
+  
+C:\Users\Egle\source\repos\PirmasSavarankiskas\Savarankiskas.cpp(59,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Egle\source\repos\PirmasSavarankiskas\Savarankiskas.cpp(60,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Egle\source\repos\PirmasSavarankiskas\Savarankiskas.cpp(144,52): warning C4244: 'return': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Egle\source\repos\PirmasSavarankiskas\Savarankiskas.cpp(144,52): warning C4244:         with
+C:\Users\Egle\source\repos\PirmasSavarankiskas\Savarankiskas.cpp(144,52): warning C4244:         [
+C:\Users\Egle\source\repos\PirmasSavarankiskas\Savarankiskas.cpp(144,52): warning C4244:             _Ty=double
+C:\Users\Egle\source\repos\PirmasSavarankiskas\Savarankiskas.cpp(144,52): warning C4244:         ]
+C:\Users\Egle\source\repos\PirmasSavarankiskas\Savarankiskas.cpp(151,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Egle\source\repos\PirmasSavarankiskas\Savarankiskas.cpp(152,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Savarankiskas2023.cpp
+C:\Users\Egle\source\repos\PirmasSavarankiskas\mylib.h(39,36): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'Savarankiskas2023.cpp')
+  
+  Generating Code...
+  PirmasSavarankiskas.vcxproj -> C:\Users\Egle\source\repos\PirmasSavarankiskas\x64\Debug\PirmasSavarankiskas.exe
